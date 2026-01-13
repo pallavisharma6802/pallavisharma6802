@@ -4,10 +4,6 @@
   Curious builder • ML/AI + Full-Stack • Always learning • Open to collabs 🚀
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pallavisharma6802&style=flat-square" alt="profile views" />
-</p>
-
 ---
 
 ### ✨ A little about me
