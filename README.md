@@ -27,23 +27,23 @@
 
 ---
 
-### 📫 How to reach me
+<!--### 📫 How to reach me
 <p>
   <a href="https://www.linkedin.com/in/pallavisharma6802/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
+</p>-->
 
 ---
 
 ### 🧰 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,java,js,react,nodejs,mysql,fastapi,docker,git,linux,postgres,aws,azure,gcp,kafka,terraform" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,js,react,nodejs,mysql,fastapi,docker,git,linux,postgres,aws,azure,gcp,kafka,spark,terraform,pytorch,tensorflow" />
 </p>
 
-<p>
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
+</p> -->
 
 ---
 
