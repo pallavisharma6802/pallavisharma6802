@@ -38,7 +38,7 @@
 
 ### 🧰 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,java,js,react,nodejs,mysql,fastapi,docker,git,linux,postgres,aws,azure,gcp,kafka,spark,terraform" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,js,react,nodejs,mysql,fastapi,docker,git,linux,postgres,aws,azure,gcp,kafka,terraform" />
 </p>
 
 <p>
