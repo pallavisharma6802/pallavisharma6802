@@ -38,7 +38,7 @@
 
 ### 🧰 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,java,js,react,nodejs,mysql,fastapi,docker,git,linux,postgres,aws,azure,gcp,kafka,spark,terraform,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,js,react,nodejs,mysql,fastapi,docker,git,linux,postgres,aws,azure,gcp,kafka,terraform,pytorch,tensorflow" />
 </p>
 
 <!-- <p>
@@ -46,6 +46,3 @@
 </p> -->
 
 ---
-
-### ⚡ Fun fact
-I get weirdly happy when a project goes from **idea → API → UI → deploy** in one weekend 😄
