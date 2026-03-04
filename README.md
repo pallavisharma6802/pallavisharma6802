@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-c2185b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavisharma6802/)
-[![Email](https://img.shields.io/badge/Email-e91e63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-e91e63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pallavi6802@gmail.com)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%20Engineer%20%2F%20MLE%20%2F%20Data%20Science-f06292?style=for-the-badge&logoColor=white)
 
 </div>
