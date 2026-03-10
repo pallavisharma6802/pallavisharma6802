@@ -1,8 +1,6 @@
 <div align="center">
 
-![banner](./banner.gif)
-
-<br/>
+![Header](https://capsule-render.vercel.app/api?type=soft&color=c2607d,9d4b6e,6d3b5e&height=100&text=Pallavi%20Sharma&fontSize=40&fontColor=fff&fontAlignY=55&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=9D4B6E&center=true&vCenter=true&width=800&lines=building+AI+systems+that+actually+work+%F0%9F%8C%B8;RAG+%C2%B7+Agents+%C2%B7+evals+%C2%B7+MLOps;making+LLMs+reliable+in+production+%E2%9C%A8;open+to+full-time+AI+%2F+ML+%2F+Data+Science+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -65,7 +63,6 @@ Previously: **UW Medicine** · **IDiA Lab** · **Persistent Systems**
 ---
 
 ### ✦ right now
-
 ```
 🌸  obsessing over   →  LLM evals, RAG grounding, hallucination detection
 💻  building         →  AI systems that work outside of a notebook
@@ -77,6 +74,6 @@ Previously: **UW Medicine** · **IDiA Lab** · **Persistent Systems**
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pallavisharma6802&hide_border=true&background=fdf6f9&ring=c2607d&fire=9d4b6e&currStreakLabel=6d3b5e&sideLabels=9d4b6e&dates=c2607d&stroke=e8d5de" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pallavisharma6802&hide_border=true&background=00000000&ring=c2607d&fire=9d4b6e&currStreakLabel=6d3b5e&sideLabels=9d4b6e&dates=c2607d&stroke=e8d5de" />
 
 </div>
