@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=EAEAEA)](https://www.linkedin.com/in/pallavisharma6802/)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=EAEAEA)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=EAEAEA)](mailto:pallavi6802@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-E8441A?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/pallavisharma6802/)
 
 </div>
