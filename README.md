@@ -1,72 +1,55 @@
 <div align="center">
 
-[![Name](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=900&size=52&duration=1&pause=9999&color=EAEAEA&center=true&vCenter=true&width=800&height=90&lines=Pallavi+Sharma)](https://git.io/typing-svg)
+[![Name](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=700&size=32&duration=1&pause=99999&color=EAEAEA&center=true&vCenter=true&width=800&height=60&lines=Pallavi+Sharma)](https://git.io/typing-svg)
 
-[![Role](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=12&duration=1&pause=9999&color=888888&center=true&vCenter=true&width=700&height=24&lines=MS+Data+Science+%C2%B7+UW-Madison+%C2%B7+May+2026+%C2%B7+F-1+OPT+Eligible)](https://git.io/typing-svg)
+[![Role](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=12&duration=1&pause=99999&color=888888&center=true&vCenter=true&width=700&height=24&lines=MS+Data+Science+%C2%B7+UW-Madison+%C2%B7+May+2026+%C2%B7+F-1+OPT+Eligible)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&pause=1200&color=E8441A&center=true&vCenter=true&width=800&lines=building+RAG+pipelines+that+actually+ground%3B+agents+that+don%27t+drift+in+production%3B+evals+that+catch+failures+before+users+do)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&pause=1200&color=E8441A&center=true&vCenter=true&width=800&lines=building+RAG+pipelines+that+actually+ground;agents+that+don%27t+drift+in+production;evals+that+catch+failures+before+users+do)](https://git.io/typing-svg)
+I kept running into the same problem — LLMs that sound completely certain about things they just made up. So I built a system to catch that. Turns out hallucination detection is harder than it sounds and more satisfying than it should be.
+
+I have a thing for systems that fail loudly rather than silently.
 
 <br/>
+
+**[LLM Sentinel](https://github.com/pallavisharma6802/Agent-Control-Room)** — hallucination detection · 1,044 traces · 42% detection rate · 100% on fabricated entities
+**[Multi-Cloud AI Agent](https://github.com/pallavisharma6802/Multi-Cloud-AI-Agent-for-Ticket-Resolution)** — LangGraph + Azure + AWS + Pinecone · Terraform IaC · full audit trail
+**[Policy-Aware RAG](https://github.com/pallavisharma6802/Policy-Aware-RAG-System)** — RAG that refuses when it can't answer · hybrid search · 90 tests
+**[Fraud Detection MLOps](https://github.com/pallavisharma6802/fraud-detection-mlops)** — XGBoost + drift monitoring + auto-retraining · 95.5% ROC-AUC
+
+<br/>
+
+previously broke things at **UW Medicine / IDiA Lab** · **Persistent Systems** · **Aculore Statistics**
+
+<br/>
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=EAEAEA)](https://www.python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=EAEAEA)](https://pytorch.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=EAEAEA)](https://fastapi.tiangolo.com)
+[![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=flat-square&logoColor=EAEAEA)](https://langchain.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1a1a1a?style=flat-square&logoColor=EAEAEA)](https://langchain-ai.github.io/langgraph)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a1a?style=flat-square&logo=huggingface&logoColor=FFD21E)](https://huggingface.co)
+[![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=EAEAEA)](https://docker.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=EAEAEA)](https://postgresql.org)
+
+</div>
+
+<br/>
+
+obsessing over LLM evals and RAG grounding · looking for full-time AI/ML roles · May 2026 · OPT + H-1B sponsor
+
+<br/>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=EAEAEA)](https://www.linkedin.com/in/pallavisharma6802/)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=EAEAEA)](mailto:pallavi6802@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-E8441A?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/pallavisharma6802/)
-
-</div>
-
----
-
-<div align="center">
-
-One focus: **making LLMs reliable in production.**
-RAG that grounds. Agents that don't hallucinate. Evals that catch failures before users do.
-
-Previously: **UW Medicine / IDiA Lab** · **Persistent Systems** · **Aculore Statistics**
-
-</div>
-
----
-
-### stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=EAEAEA)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=EAEAEA)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=EAEAEA)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a1a?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=flat-square&logoColor=EAEAEA)
-![LangGraph](https://img.shields.io/badge/LangGraph-1a1a1a?style=flat-square&logoColor=EAEAEA)
-![RAG](https://img.shields.io/badge/RAG-E8441A?style=flat-square&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=EAEAEA)
-![SageMaker](https://img.shields.io/badge/SageMaker-1a1a1a?style=flat-square&logo=amazonaws&logoColor=EAEAEA)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-1a1a1a?style=flat-square&logo=googlecloud&logoColor=EAEAEA)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=EAEAEA)
-![Airflow](https://img.shields.io/badge/Airflow-1a1a1a?style=flat-square&logo=apacheairflow&logoColor=EAEAEA)
-![Kafka](https://img.shields.io/badge/Kafka-1a1a1a?style=flat-square&logo=apachekafka&logoColor=EAEAEA)
-![Terraform](https://img.shields.io/badge/Terraform-1a1a1a?style=flat-square&logo=terraform&logoColor=EAEAEA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=EAEAEA)
-![BigQuery](https://img.shields.io/badge/BigQuery-1a1a1a?style=flat-square&logo=googlebigquery&logoColor=EAEAEA)
-
-</div>
-
----
-
-### right now
-
-```
-obsessing over  →  LLM evals, RAG grounding, hallucination detection
-building        →  LLM Sentinel · multi-cloud LangGraph agents
-looking for     →  full-time roles · May 2026 · open to sponsor
-open to         →  collabs, open-source, anything that ships
-```
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pallavisharma6802&hide_border=true&background=00000000&ring=E8441A&fire=E8441A&currStreakNum=EAEAEA&sideNums=EAEAEA&currStreakLabel=E8441A&sideLabels=888888&dates=666666&stroke=333333" />
 
 </div>
