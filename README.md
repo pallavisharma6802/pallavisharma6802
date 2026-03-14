@@ -58,7 +58,7 @@ Previously: **UW Medicine / IDiA Lab** · **Persistent Systems** · **Aculore St
 
 ```
 obsessing over  →  LLM evals, RAG grounding, hallucination detection
-building        →  LLM Sentinel · AIRadar · multi-cloud LangGraph agents
+building        →  LLM Sentinel · multi-cloud LangGraph agents
 looking for     →  full-time roles · May 2026 · open to sponsor
 open to         →  collabs, open-source, anything that ships
 ```
