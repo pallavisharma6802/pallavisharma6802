@@ -23,10 +23,6 @@ I have a thing for systems that fail loudly rather than silently.
 
 <br/>
 
-previously broke things at **UW Medicine / IDiA Lab** · **Persistent Systems** · **Aculore Statistics**
-
-<br/>
-
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=EAEAEA)](https://www.python.org)
