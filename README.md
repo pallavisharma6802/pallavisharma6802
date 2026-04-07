@@ -13,14 +13,6 @@
 I kept running into the same problem — LLMs that sound completely certain about things they just made up. So I built a system to catch that. Turns out hallucination detection is harder than it sounds and more satisfying than it should be.
 
 I have a thing for systems that fail loudly rather than silently.
-
-<br/>
-
-**[LLM Sentinel](https://github.com/pallavisharma6802/Agent-Control-Room)** — hallucination detection · 1,044 traces · 42% detection rate · 100% on fabricated entities
-**[Multi-Cloud AI Agent](https://github.com/pallavisharma6802/Multi-Cloud-AI-Agent-for-Ticket-Resolution)** — LangGraph + Azure + AWS + Pinecone · Terraform IaC · full audit trail
-**[Policy-Aware RAG](https://github.com/pallavisharma6802/Policy-Aware-RAG-System)** — RAG that refuses when it can't answer · hybrid search · 90 tests
-**[Fraud Detection MLOps](https://github.com/pallavisharma6802/fraud-detection-mlops)** — XGBoost + drift monitoring + auto-retraining · 95.5% ROC-AUC
-
 <br/>
 
 <div align="center">
