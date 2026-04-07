@@ -19,12 +19,41 @@ I have a thing for systems that fail loudly rather than silently.
 
 [![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=EAEAEA)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=EAEAEA)](https://pytorch.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=EAEAEA)](https://fastapi.tiangolo.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a1a?style=flat-square&logo=huggingface&logoColor=FFD21E)](https://huggingface.co)
+[![OpenAI](https://img.shields.io/badge/OpenAI-1a1a1a?style=flat-square&logo=openai&logoColor=EAEAEA)](https://openai.com)
 [![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=flat-square&logoColor=EAEAEA)](https://langchain.com)
 [![LangGraph](https://img.shields.io/badge/LangGraph-1a1a1a?style=flat-square&logoColor=EAEAEA)](https://langchain-ai.github.io/langgraph)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a1a?style=flat-square&logo=huggingface&logoColor=FFD21E)](https://huggingface.co)
-[![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=EAEAEA)](https://docker.com)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=flat-square&logo=scikit-learn&logoColor=EAEAEA)](https://scikit-learn.org)
+[![XGBoost](https://img.shields.io/badge/XGBoost-1a1a1a?style=flat-square&logo=xgboost&logoColor=EAEAEA)](https://xgboost.ai)
+
+<br/>
+
+[![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=EAEAEA)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-1a1a1a?style=flat-square&logo=numpy&logoColor=EAEAEA)](https://numpy.org)
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-1a1a1a?style=flat-square&logo=apachespark&logoColor=EAEAEA)](https://spark.apache.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=EAEAEA)](https://postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=EAEAEA)](https://www.mysql.com)
+
+<br/>
+
+[![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=EAEAEA)](https://docker.com)
+[![MLflow](https://img.shields.io/badge/MLflow-1a1a1a?style=flat-square&logo=mlflow&logoColor=EAEAEA)](https://mlflow.org)
+[![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-1a1a1a?style=flat-square&logo=apacheairflow&logoColor=EAEAEA)](https://airflow.apache.org)
+[![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonwebservices&logoColor=EAEAEA)](https://aws.amazon.com)
+[![GCP](https://img.shields.io/badge/GCP-1a1a1a?style=flat-square&logo=googlecloud&logoColor=EAEAEA)](https://cloud.google.com)
+[![Azure](https://img.shields.io/badge/Azure-1a1a1a?style=flat-square&logo=microsoftazure&logoColor=EAEAEA)](https://azure.microsoft.com)
+[![Terraform](https://img.shields.io/badge/Terraform-1a1a1a?style=flat-square&logo=terraform&logoColor=EAEAEA)](https://www.terraform.io)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=EAEAEA)](https://github.com)
+[![GitLab](https://img.shields.io/badge/GitLab-1a1a1a?style=flat-square&logo=gitlab&logoColor=EAEAEA)](https://gitlab.com)
+
+<br/>
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=EAEAEA)](https://fastapi.tiangolo.com)
+[![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=EAEAEA)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=EAEAEA)](https://nodejs.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1a1a1a?style=flat-square&logo=streamlit&logoColor=EAEAEA)](https://streamlit.io)
+[![Power BI](https://img.shields.io/badge/Power_BI-1a1a1a?style=flat-square&logo=powerbi&logoColor=EAEAEA)](https://powerbi.microsoft.com)
+[![Tableau](https://img.shields.io/badge/Tableau-1a1a1a?style=flat-square&logo=tableau&logoColor=EAEAEA)](https://www.tableau.com)
 
 </div>
 
